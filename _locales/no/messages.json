@@ -1,11 +1,11 @@
 {
-   "desc": {
-      "message": "Hele ny fane er et notisblokk for dine kommentarer. Lag forskjellige notater rett i den nye fanen"
-   },
-   "name": {
-      "message": "NoteTab - Chrome New Tab"
-   },
-   "title": {
-      "message": "NoteTab - Chrome New Tab"
-   }
+    "desc": {
+        "message": "Hele ny fane er et notisblokk for dine kommentarer. Lag forskjellige notater rett i den nye fanen"
+    },
+    "name": {
+        "message": "NoteTab - Chrome New Tab"
+    },
+    "title": {
+        "message": "PrivateNoteTab"
+    }
 }

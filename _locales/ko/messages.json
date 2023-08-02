@@ -1,11 +1,11 @@
 {
-   "desc": {
-      "message": "전체 새 탭은 설명을위한 메모장입니다. 새 탭에서 바로 다른 메모 작성"
-   },
-   "name": {
-      "message": "Custom New Tab Startpage"
-   },
-   "title": {
-      "message": "Custom New Tab Startpage"
-   }
+    "desc": {
+        "message": "전체 새 탭은 설명을위한 메모장입니다. 새 탭에서 바로 다른 메모 작성"
+    },
+    "name": {
+        "message": "Private Note Tab Startpage"
+    },
+    "title": {
+        "message": "PrivateNoteTab"
+    }
 }

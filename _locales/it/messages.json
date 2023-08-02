@@ -1,11 +1,11 @@
 {
-   "desc": {
-      "message": "Tutta la nuova scheda è un blocco note per le tue osservazioni. Prendi note diverse direttamente nella Nuova scheda"
-   },
-   "name": {
-      "message": "NoteTab - Notepad in the Homepage"
-   },
-   "title": {
-      "message": "NoteTab"
-   }
+    "desc": {
+        "message": "Tutta la nuova scheda è un blocco note per le tue osservazioni. Prendi note diverse direttamente nella Nuova scheda"
+    },
+    "name": {
+        "message": "PrivateNoteTab - Notepad in the Homepage"
+    },
+    "title": {
+        "message": "PrivateNoteTab"
+    }
 }

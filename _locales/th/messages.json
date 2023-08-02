@@ -1,11 +1,11 @@
 {
-   "desc": {
-      "message": "แท็บใหม่ทั้งหมดเป็น Notepad สำหรับคำพูดของคุณ ทำบันทึกต่าง ๆ ให้ถูกต้องในแท็บใหม่"
-   },
-   "name": {
-      "message": "Custom New Tab for Chrome"
-   },
-   "title": {
-      "message": "Custom New Tab for Chrome"
-   }
+    "desc": {
+        "message": "แท็บใหม่ทั้งหมดเป็น Notepad สำหรับคำพูดของคุณ ทำบันทึกต่าง ๆ ให้ถูกต้องในแท็บใหม่"
+    },
+    "name": {
+        "message": "PrivateNoteTab"
+    },
+    "title": {
+        "message": "PrivateNoteTab"
+    }
 }

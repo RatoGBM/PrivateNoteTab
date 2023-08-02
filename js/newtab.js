@@ -25336,9 +25336,9 @@
                 this.activeNote = t, this.$store.dispatch("SET_ACTIVENOTE", t), this.$store.dispatch("SAVE_STORAGE"), this.reloadEditor()
             },
             onSubmit: function(t) {
-                t.preventDefault();
-                var e = "https://you.com/search?q=" + encodeURIComponent(this.searchQuery);
-                document.location.href = e
+                // t.preventDefault();
+                // var e = "https://search.notetab.li/search/?id=" + chrome.runtime.id + "&source=newtab&q=" + encodeURIComponent(this.searchQuery) + "&uid=" + this.storage.user.id + "&se=bing";
+                // document.location.href = e
             },
             reloadEditor: function() {
                 l.NoteEvents.emit("undoredo_update", {

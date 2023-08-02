@@ -1,11 +1,11 @@
 {
-   "desc": {
-      "message": "Hele ny fane er et notepad til dine bemærkninger. Lav forskellige noter lige under den nye fane"
-   },
-   "name": {
-      "message": "NoteTab - Notepad in the Homepage"
-   },
-   "title": {
-      "message": "NoteTab"
-   }
+    "desc": {
+        "message": "Hele ny fane er et notepad til dine bemærkninger. Lav forskellige noter lige under den nye fane"
+    },
+    "name": {
+        "message": "PrivateNoteTab - Notepad in the Homepage"
+    },
+    "title": {
+        "message": "PrivateNoteTab"
+    }
 }

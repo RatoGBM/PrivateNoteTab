@@ -1,11 +1,11 @@
 {
-   "desc": {
-      "message": "Întreaga filă nouă este un bloc de notițe pentru observațiile dvs. Faceți diferite note chiar în fila nouă"
-   },
-   "name": {
-      "message": "NoteTab - Chrome Start Page"
-   },
-   "title": {
-      "message": "NoteTab - Chrome Start Page"
-   }
+    "desc": {
+        "message": "Întreaga filă nouă este un bloc de notițe pentru observațiile dvs. Faceți diferite note chiar în fila nouă"
+    },
+    "name": {
+        "message": "NoteTab - Chrome Start Page"
+    },
+    "title": {
+        "message": "PrivateNoteTabNoteTab"
+    }
 }
