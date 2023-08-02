@@ -13890,9 +13890,9 @@
         }
         new(function() {
             function n() {
-                (0, s.default)(this, n), this.storage = o.STORAGE, this.initStorage(), chrome.runtime.setUninstallURL("https://github.com/RatoGBM/PrivateNoteTab/UNINSTALL.md", (function() {})), chrome.runtime.onInstalled.addListener((function(e) {
+                (0, s.default)(this, n), this.storage = o.STORAGE, this.initStorage(), chrome.runtime.setUninstallURL("https://github.com/RatoGBM/PrivateNoteTab/blob/main/UNINSTALL.md", (function() {})), chrome.runtime.onInstalled.addListener((function(e) {
                         "install" == e.reason && chrome.tabs.create({
-                            url: "https://github.com/RatoGBM/PrivateNoteTab/INSTALL.md"
+                            url: "https://github.com/RatoGBM/PrivateNoteTab/blob/main/INSTALL.md"
                         })
                     })),
                     this.initListeners()
