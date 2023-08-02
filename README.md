@@ -25,7 +25,8 @@ Given tokens and other potentially private information is often present within s
 I used [Chrome Extension source viewer](https://chrome.google.com/webstore/detail/chrome-extension-source-v/jifpbeccnghkjeaalbbjmodiffmgedin) to get the source code, (I am not sure how safe that is though,) so please check and doublecheck.
 
 What I did:
-- commented out the part where the search query is sent to `https://notetab.li/search?q={searchTerms}` in `newtab.js` (Line 25340)
+- Because I couldn't figure out a way to get the browsers default search engine, I removed the querry box from the middle of the screen. If you would like it back, uncomment the section of code on Lines 29690-29715, and edit in your search engine of choice on Line 25340 (I put in google). But I recommend using something like the [All In One Web Searcher](https://chrome.google.com/webstore/detail/all-in-one-web-searcher/enofjgiadilpmldfknojklfjbeaooiap) with a keyboard shortcut instead.
+- ~~commented out~~ replaced with Google the part where the search query is sent to `https://notetab.li/search?q={searchTerms}` in `newtab.js` (Line 25340) (but the search box is still off)
 - commented out the part where a request is sent to `https://sshot.org?url=` in `background.js` (Line 14063)
 - Removed default search engine override from `manifest.json`
 - Removed permissions to access `sshot.org` from `mainfest.json`

@@ -1,3 +1,9 @@
+# If you know how to prevent this page from appearing without everything breaking, please tell me.
+
+(You can use `background.js` Line 13893 as a reference point)
+
+## Here is the not so helpfull installation guide
+
 You can download the source files from the releases, or zip the repository.
 
 Chromium won't allow you to use an extension that is not from the webstore. (Btw. use [Brave](https://brave.com/), it is better privacy (You can turn off all the Crypto features))
