@@ -1,6 +1,4 @@
 {
-    "!!update_url": "https://clients2.google.com/service/update2/crx",
-
     "name": "__MSG_name__",
     "description": "__MSG_desc__",
     "version": "1.1",

@@ -13890,11 +13890,12 @@
         }
         new(function() {
             function n() {
-                (0, s.default)(this, n), this.storage = o.STORAGE, this.initStorage(), chrome.runtime.setUninstallURL("https://notetab.li/uninstall/", (function() {})), chrome.runtime.onInstalled.addListener((function(e) {
-                    "install" == e.reason && chrome.tabs.create({
-                        url: "https://notetab.li/install/"
-                    })
-                })), this.initListeners()
+                // (0, s.default)(this, n), this.storage = o.STORAGE, this.initStorage(), chrome.runtime.setUninstallURL("https://github.com/RatoGBM/PrivateNoteTab", (function() {})), chrome.runtime.onInstalled.addListener((function(e) {
+                //     "install" == e.reason && chrome.tabs.create({
+                //         url: "https://github.com/RatoGBM/PrivateNoteTab"
+                //     })
+                // })), 
+                this.initListeners()
             }
             return (0, i.default)(n, [{
                 key: "initListeners",
