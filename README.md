@@ -31,7 +31,7 @@ What I did:
 - Removed permissions to access `sshot.org` from `mainfest.json`
 - "Jammed" the "update_url" in `maifest.json` to prevent NoteTab from updating
 - Renamed the title of the app to "PrivateNoteTab"
-- Removed the Install and uninstall ruls
+- Removed the Install and uninstall urls
 
 I am REALLY BAD at JavaScript, what I did right now is "cut of the branches", all functions are still being called, but their body is commented out. So if you have a better idea on how to turn of unwanted features at their root, please submitt pull request.
 
