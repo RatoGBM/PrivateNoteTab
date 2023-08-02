@@ -38,7 +38,7 @@ I am REALLY BAD at JavaScript, what I did right now is "cut of the branches", al
 
 # Installing
 
-You can download the source files from the releases, or zip the repository.
+You can download the source files from the [releases](https://github.com/RatoGBM/PrivateNoteTab/releases), or zip the repository.
 
 Chromium won't allow you to use an extension that is not from the webstore. (Btw. use [Brave](https://brave.com/), it is better privacy (You can turn off all the Crypto features))
 
