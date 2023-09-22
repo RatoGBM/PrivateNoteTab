@@ -29,8 +29,8 @@ What I did:
 - ~~commented out~~ replaced with Google the part where the search query is sent to `https://notetab.li/search?q={searchTerms}` in `newtab.js` (Line 25340) (but the search box is still off)
 - commented out the part where a request is sent to `https://sshot.org?url=` in `background.js` (Line 14063)
 - Removed default search engine override from `manifest.json`
-- Removed permissions to access `sshot.org` from `mainfest.json`
-- "Jammed" the "update_url" in `maifest.json` to prevent NoteTab from updating
+- Removed permissions to access `sshot.org` from `manifest.json`
+- "Jammed" the "update_url" in `manifest.json` to prevent NoteTab from updating
 - Renamed the title of the app to "PrivateNoteTab"
 - Removed the Install and uninstall urls
 
