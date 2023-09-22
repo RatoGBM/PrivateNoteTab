@@ -43,7 +43,7 @@ You can download the source files from the [releases](https://github.com/RatoGBM
 Chromium won't allow you to use an extension that is not from the webstore. (Btw. use [Brave](https://brave.com/), it is better privacy (You can turn off all the Crypto features))
 
 You will have to use **Developer Mode** and **Load unpacked** features to get the extensions to work:
-1. Download and unzip this repository wherever you are comportable eg. `~/Documents/MyBrowserExtensions/`
+1. Download and unzip this repository wherever you are comfortable eg. `~/Documents/MyBrowserExtensions/`
 1. Go to Settings->Extensions->(Menage Extensions)
 2. Enable Developer toggle on the top right, the option "Load Unpacked" should appear in the top left.
 3. Click it, and choose the PrivateNoteTab folder you just unziped.
