@@ -1,4 +1,7 @@
 # PrivateNoteTab
+
+**God News! It seems that the extension has been removed from the chrome web store!**
+
 A cleaned up version of https://notetab.li/ ([NoteTab Chrome Extension](https://chrome.google.com/webstore/detail/notetab-notepad-in-the-ho/cjnhekhopohdcoojldnnpfmogbljienl)) without the malware. And no custom search engine - you can use your native search engine without anyone watching.
 
 You are free and encouraged to doublecheck my code changes to the original code.
